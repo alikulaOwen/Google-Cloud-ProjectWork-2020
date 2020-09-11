@@ -5,7 +5,7 @@ Project work For Google Cloud 2020
 
  This repo contains Two commits 
  - Screenshots 
-includes 10 PNG files
+    - Includes 10 PNG files
  
  - Translations
- includes two Markdown Files
+    - Includes two Markdown Files
